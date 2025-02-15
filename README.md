@@ -87,10 +87,6 @@
 
 <a href="https://github.com/HadiaKarim16" target="_blank"><img src="https://img.shields.io/badge/Github-HadiaKarim16-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://facebook.com/HadiaKarim16" target="_blank"><img src="https://img.shields.io/badge/FaceBook-HadiaKarim16-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://facebook.com/ehaam.rajput" target="_blank"><img src="https://img.shields.io/badge/FaceBook-HadiaKarim16-purple?style=for-the-badge&logo=facebook"></a>
 
-<a href="https://twitter.com/Kas_Roudra" target="_blank"><img src="https://img.shields.io/badge/Twitter-HadiaKarim16-blue?style=for-the-badge&logo=twitter"></a>
-
-<a href="https://m.me/HadiaKarim16" target="_blank"><img src="https://img.shields.io/badge/Messenger-HadiaKarim16-red?style=for-the-badge&logo=messenger"></a>
-
-<a href="mailto:HadiaKarim16krd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-HadiaKarim16krd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:hadiakarim37@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-hadiakarim37@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
